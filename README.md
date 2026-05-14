@@ -2,7 +2,7 @@ Panel Çit PRO, panel çit ölçüleri, tel adedi ve yaklaşık ağırlık hesap
 
 Uygulama özellikle panel çit üreticileri, proje çizenler, satış ekipleri ve teknik hesaplama yapan kullanıcılar için geliştirilmiştir.
 
-*Özellikler*
+Özellikler:
 -Panel ölçülerine göre otomatik tel hesabı
 -Yatay ve dikey tel adedi hesaplama
 -Yaklaşık panel ağırlığı hesaplama
@@ -12,7 +12,7 @@ Uygulama özellikle panel çit üreticileri, proje çizenler, satış ekipleri v
 -Modern ve sade arayüz
 -Klavye Enter geçiş sistemi ile hızlı veri girişi
 
-*Kullanılan Teknolojiler*
+Kullanılan Teknolojiler:
 -Java
 -Java Swing
 -AWT Graphics2D
@@ -40,13 +40,13 @@ Program girilen ölçülere göre otomatik olarak:
 
 Oluşturulan panel çizimi tek tuşla PNG formatında masaüstüne kaydedilebilir.
 
-*Kullanım Alanları*
+Kullanım Alanları:
 -Panel çit üretimi
--Teknik hesaplama
--Teklif hazırlama
--Projelendirme
--Teknik sunumlar
--Geliştirici
+  -Teknik hesaplama
+  -Teklif hazırlama
+  -Projelendirme
+  -Teknik sunumlar
+  -Geliştirici
 
 Bu proje Java kullanılarak geliştirilmiştir.
 Amaç; panel çit hesaplamalarını hızlı, görsel ve kullanıcı dostu hale getirmektir.
