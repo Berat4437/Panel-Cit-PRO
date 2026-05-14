@@ -19,7 +19,7 @@ Kullanılan Teknolojiler:
 -BufferedImage
 -Object Oriented Programming (OOP)
 
-Uygulama aşağıdaki değerleri otomatik hesaplar:
+Uygulama otomatik hesaplar:
 
 -Panel genişliği ✓
 -Panel yüksekliği ✓
