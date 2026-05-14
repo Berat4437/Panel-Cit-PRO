@@ -28,7 +28,7 @@ Uygulama otomatik hesaplar:
 -Göz aralığı ✓
 -Tel çapı ✓
 -Yaklaşık toplam ağırlık ✓
--Görsel Çizim Sistemi ✓
+   -Görsel Çizim Sistemi ✓
 
 Program girilen ölçülere göre otomatik olarak:
 
